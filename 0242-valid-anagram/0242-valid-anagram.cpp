@@ -12,11 +12,6 @@ public:
         for(auto i:t){
             map2[i]++;
         }
-
-        for(auto i:map1){
-            if(map1 != map2 ) return false;
-        }
-
-        return true;
+        return map1 == map2;       
     }
 };
