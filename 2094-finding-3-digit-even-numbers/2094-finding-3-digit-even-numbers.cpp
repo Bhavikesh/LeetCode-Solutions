@@ -3,32 +3,31 @@ public:
     vector<int> findEvenNumbers(vector<int>& digits) {
         vector<int> frq(10,0);
         vector<int> ans;
+
         for(int i:digits){
             frq[i]++;
         }
+        //we are using the freeq to generate the number 
+        for(int i=1; i<=9; i++){ //start can't be 0
+            if(frq[i] == 0) continue;  // hundered place
 
-        for(int i = 100; i<=998; i+=2){
-            int a = i/100;
-            int b = (i/10)%10;
-            int c = i%10;
+            frq[i]--;
 
-            vector<int> req(10,0);
-            req[a]++;
-            req[b]++;
-            req[c]++;
+            for(int j=0; j<=9; j++){
+                if(frq[j] == 0) continue; // tens place
 
-            bool possible = true;
+                frq[j]--;
 
-            for(int i=0; i<10; i++){
-                if(req[i]>frq[i]) {
-                    possible = false;
-                    break;
+                for(int k=0; k<=8; k+=2){
+                    if(frq[k] == 0) continue;//unit place
+
+                    int num = i*100 + j*10 + k;
+                    ans.push_back(num);
                 }
-            }
 
-            if(possible){
-                ans.push_back(i);
+                frq[j]++;
             }
+            frq[i]++;
         }
         return ans;
     }
