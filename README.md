@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
@@ -20,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
