@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Queue
 |  |
 | ------- |
@@ -105,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
