@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
