@@ -2,38 +2,29 @@ class Solution {
 public:
     vector<string> res;
 
-    bool isValid(string curr){
-        int depth = 0;
-
-        for(auto i:curr){
-            if(i=='(') depth++;
-            else depth--;
-            if(depth<0) return false;
-        }
-
-        return depth==0;
-    }
-    
-    void solve(string curr, int n){
+    void solve(string curr, int n, int open, int close){
         if(curr.length() == 2*n){
-            if(isValid(curr)){
-                res.push_back(curr);
-            }
+            res.push_back(curr);
             return;
         }
 
-        curr.push_back('(');
-        solve(curr,n);
-        curr.pop_back();
+        if(open < n){
+            curr.push_back('(');
+            solve(curr,n, open+1, close);
+            curr.pop_back();
+        }
 
-        curr.push_back(')');
-        solve(curr,n);
-        curr.pop_back();
+        if(close < open){
+            curr.push_back(')');
+            solve(curr,n,open, close+1);
+            curr.pop_back();
+        }
     }
     vector<string> generateParenthesis(int n) {
         string curr = "";
-
-        solve(curr, n);
+        int open = 0;
+        int close = 0;
+        solve(curr, n, open, close);
 
         return res;
     }
