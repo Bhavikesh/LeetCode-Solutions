@@ -1,59 +1,31 @@
 class Solution {
 public:
+    int t[101][101];
+    bool solve(int i, int open, string &s){
+        if(i == s.length()){
+            return open == 0;
+        }
+        if(t[i][open] != -1 ){
+            return t[i][open];
+        }
+        bool isValid = false;
+        if(s[i] == '('){
+            isValid |= solve(i+1, open+1, s);
+        }
+        else if(s[i] == '*'){
+            isValid |= solve(i+1,open+1,s);
+            isValid |= solve(i+1, open, s);
+            if(open>0){
+                isValid |= solve(i+1,open-1, s);
+            }
+        }else if(open>0){
+            isValid |= solve(i+1, open-1, s);
+        }
+
+        return t[i][open] = isValid;
+    }
     bool checkValidString(string s) {
-        bool ans = false;
-        int n = s.length();
-
-        int open = 0;
-        int close = 0;
-
-        for(int i=0; i<n; i++){
-            if(s[i] == '(') open++;
-            else if(s[i] == '*') open++;
-            else close++;
-
-            if(open == close){
-                ans = ans | true;
-
-            }
-            else if(close > open){
-                ans = ans | false;
-                break;
-            }
-        }
-        
-
-        open = 0;
-        close = 0;
-        for(int i=n-1; i>=0; i--){
-            if(s[i] == '(') open++;
-            else if(s[i] == '*') close++;
-            else close++;
-            if(open == close){
-                ans = ans | true;
-            }
-            else if(open > close){
-                ans = ans | false;
-                break;
-            }
-        }
-
-
-        open = 0;
-        close = 0;
-        for(int i=0; i<n; i++){
-            if(s[i] == '(') open++;
-            else if(s[i] == ')') close++;
-
-            if(open == close ){
-                ans = ans | true;
-            }
-            else if(close > open){
-                ans = ans | false;
-                break;
-            }
-        }
-
-        return ans;
+        memset(t,-1,sizeof(t));
+        return solve(0,0,s);
     }
 };
