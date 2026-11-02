@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
