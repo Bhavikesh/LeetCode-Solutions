@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhavikesh/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
